@@ -625,7 +625,7 @@
     <div id="entire-body">
         <div id="Checkout-Nav">
             <div id="logo">
-                <a href="landing_page.html"><img style="width:100px" src="./images/logo.png"></a>
+                <a href="index.html"><img style="width:100px" src="./images/logo.png"></a>
             </div>
             <div id="bag">
                 <a id="bag-icon-text" href="shopping_bag.html">
@@ -907,7 +907,7 @@
             <p style="line-height: 1.4; font-size: 17px;">We received your order and will begin processing it soon.
                 Please check your email and message for order
                 related details.</p>
-            <button style="margin-top:15px"><a href="landing_page.html">SHOP MORE</a></button>
+            <button style="margin-top:15px"><a href="index.html">SHOP MORE</a></button>
         </div>
     </div>
 </body>
@@ -934,14 +934,14 @@
             d.textContent = "SHOP MORE"
             c.textContent = "SHOP MORE"
             d.addEventListener("click", function () {
-                window.location.href = "landing_page.html"
+                window.location.href = "index.html"
             })
             c.addEventListener("click", function () {
-                window.location.href = "landing_page.html"
+                window.location.href = "index.html"
             })
             modal.style.display = "none"
             blur_effect.removeAttribute("class", "blur")
-            window.location.href = "landing_page.html"
+            window.location.href = "index.html"
         }
     })
 
@@ -951,7 +951,7 @@
         c.textContent = "SHOP MORE"
         modal.style.display = "none"
         blur_effect.removeAttribute("class", "blur")
-        window.location.href = "landing_page.html"
+        window.location.href = "index.html"
     })
 
 
@@ -997,7 +997,7 @@
     function placeOrder() {
 
         if (event.target.textContent == "SHOP MORE") {
-            window.location.href = "landing_page.html"
+            window.location.href = "index.html"
         } else {
 
             var cardnumber = document.getElementById("cardnumber")

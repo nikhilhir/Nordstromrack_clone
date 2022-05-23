@@ -600,7 +600,7 @@ document.addEventListener("DOMContentLoaded",function(e){
             signout.style.display="block"
             signout.addEventListener("click",function(ev){
                 localStorage.removeItem("logeduser");
-                document.location="landing_page.html";
+                document.location="index.html";
             });
             
         }
@@ -626,7 +626,7 @@ document.addEventListener("DOMContentLoaded",function(e){
         <div id="nav-bar" onmouseenter="removeBar()">
             <div id="inside-div">
                 <div id="logo">
-                    <a href="landing_page.html"><img style="width:100px" src="./images/logo.png"></a>
+                    <a href="index.html"><img style="width:100px" src="./images/logo.png"></a>
                 </div>
                 <div id="navs">
                     <button id="red" class="navEle" onclick="dropDown('Sale')"
@@ -3112,7 +3112,7 @@ document.addEventListener("DOMContentLoaded",function(e){
         if(bag === null) {
             localStorage.setItem('bag', JSON.stringify([]));
             var text = document.createElement('p');
-            text.innerHTML = `Your bag is empty. <a href = 'landing_page.html'>Click here to continue shopping!</a>`;
+            text.innerHTML = `Your bag is empty. <a href = 'index.html'>Click here to continue shopping!</a>`;
             text.setAttribute('id', 'shopping-bag-empty');
             bagData.append(text);
             var checkout = document.getElementById('shopping-bag-summary');
@@ -3120,7 +3120,7 @@ document.addEventListener("DOMContentLoaded",function(e){
         } else if (bag.length === 0) {
             localStorage.setItem('bag', JSON.stringify([]));
             var text = document.createElement('p');
-            text.innerHTML = `Bag is empty. <a href = 'landing_page.html'>Click here to continue shopping!</a>`;
+            text.innerHTML = `Bag is empty. <a href = 'index.html'>Click here to continue shopping!</a>`;
             text.setAttribute('id', 'shopping-bag-empty');
             bagData.append(text);
             var checkout = document.getElementById('shopping-bag-summary');

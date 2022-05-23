@@ -26,7 +26,7 @@
                 signout.style.display = "block"
                 signout.addEventListener("click", function (ev) {
                     localStorage.removeItem("logeduser");
-                    document.location = "landing_page.html";
+                    document.location = "index.html";
                 });
 
             }
@@ -56,7 +56,7 @@
         <div id="nav-bar" onmouseenter="removeBar()">
             <div id="inside-div">
                 <div id="logo">
-                    <a href="landing_page.html"><img style="width:100px" src="./images/logo.png"></a>
+                    <a href="index.html"><img style="width:100px" src="./images/logo.png"></a>
                 </div>
                 <div id="navs">
                     <button id="red" class="navEle" onclick="dropDown('Sale')"

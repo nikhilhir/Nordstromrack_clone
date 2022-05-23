@@ -520,7 +520,7 @@
         <div id="nav-bar" onmouseenter="removeBar()">
             <div id="inside-div">
                 <div id="logo">
-                    <a href="landing_page.html"><img style="width:100px" src="./images/logo.png"></a>
+                    <a href="index.html"><img style="width:100px" src="./images/logo.png"></a>
                 </div>
                 <div id="navs">
                     <button id="red" class="navEle" onclick="dropDown('Sale')"
@@ -2973,7 +2973,7 @@
                 document.getElementById('error_message').style.visibility = "hidden";
                 document.getElementById('password').removeAttribute("class");
                 document.getElementById('password').setAttribute("class", "signup-input")
-                document.location = "landing_page.html";
+                document.location = "index.html";
                 var userDetails = JSON.parse(localStorage.getItem('users'));
                 var arr = userDetails.filter(function (el) {
                     return el.email === email;
@@ -2990,7 +2990,7 @@
                     }
 
                     if (JSON.parse(localStorage.getItem(key)).length === 0) {
-                        window.location.href = 'landing_page.html';
+                        window.location.href = 'index.html';
                     } else if (generic_bag != null) {
                         window.location.href = 'shopping_bag.html';
                         localStorage.setItem('bag', JSON.stringify([]));
