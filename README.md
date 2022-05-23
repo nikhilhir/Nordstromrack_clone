@@ -8,7 +8,6 @@ I faced challenges :
 
 I’ll start from 1st day, my 1st day is gone just mapping layout search detail about how to original made. The challenge was to ensure that the Javascript, DOM part worked properly or not
 
-Snapshots of the cloned website:
 
-#Landing page
+
 
