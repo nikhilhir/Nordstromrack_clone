@@ -8,7 +8,9 @@ I faced challenges :
 
 I’ll start from 1st day, my 1st day is gone just mapping layout search detail about how to original made. The challenge was to ensure that the Javascript, DOM part worked properly or not
 
-Live deployed URL:(https://lustrous-eclair-2f1c6d.netlify.app/index.html)
+<h1>Live deployed URL</h1>:(https://lustrous-eclair-2f1c6d.netlify.app/index.html)
+
+<h1>Blog</h1>https://medium.com/@nikhilhirulkar8/welcome-to-nordstrom-rack-clone-ba41e3406b8
 
 <h1>Landing page</h1>
 
