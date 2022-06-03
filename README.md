@@ -8,7 +8,10 @@ I faced challenges :
 
 I’ll start from 1st day, my 1st day is gone just mapping layout search detail about how to original made. The challenge was to ensure that the Javascript, DOM part worked properly or not
 
+Live deployed URL:(https://lustrous-eclair-2f1c6d.netlify.app/index.html)
 
-
-
+<h2> Landing Page</h2>
 ![Screenshot (1)](https://user-images.githubusercontent.com/97525857/170819577-5a942481-6af8-4d20-955d-303463135e90.png)
+
+
+
