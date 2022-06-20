@@ -20,7 +20,7 @@ I’ll start from 1st day, my 1st day is gone just mapping layout search detail 
 
 
 <h1>Product page</h1>
-![Screenshot (98)](https://user-images.githubusercontent.com/97525857/171866305-fb4f98b7-d760-4763-8fb8-9f6da217f64a.png)
+<img src="https://user-images.githubusercontent.com/97525857/171866305-fb4f98b7-d760-4763-8fb8-9f6da217f64a.png" />
 
 <h1>Checkout page</h1>
 ![Screenshot (99)](https://user-images.githubusercontent.com/97525857/171866398-6a53c2d0-f740-4328-8f20-d29e9aef405a.png)
