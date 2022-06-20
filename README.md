@@ -13,7 +13,7 @@ I’ll start from 1st day, my 1st day is gone just mapping layout search detail 
 <h1>Blog</h1>https://medium.com/@nikhilhirulkar8/welcome-to-nordstrom-rack-clone-ba41e3406b8
 
 <h1>Landing page</h1>
-![Screenshot (1)](https://user-images.githubusercontent.com/97525857/170819577-5a942481-6af8-4d20-955d-303463135e90.png)
+<img src="https://user-images.githubusercontent.com/97525857/170819577-5a942481-6af8-4d20-955d-303463135e90.png" />
 
 <h1>Login page</h1>
 ![Screenshot (97)](https://user-images.githubusercontent.com/97525857/171866161-45e9dd6e-aa58-468c-9b4b-12a462c38dbb.png)
